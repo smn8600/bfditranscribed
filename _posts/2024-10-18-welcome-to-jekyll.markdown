@@ -1,29 +1,101 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-10-18 17:35:51 -0500
-categories: jekyll update
+title:  "BFDI 1a: Take the Plunge"
+date:   2010-01-01 17:35:51 -0500
+categories: Season One
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Episode 1a: Take the Plunge, Season 1
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Match: Yeah, I know, she was like so surprised.
+Pencil: Really?
+Match: Oh, for sure! I mean, it wasn’t very big, just a little bug, but Flower went crazy!
+Pencil: OMG, Flower is really afraid of bugs.
+Match: Well, yeah. Flower thinks she’s so fabulous. Like the time she asked Icy if she was beautiful.
+Flower: Ice Cube, don’t you think I look beautiful?
+Ice Cube: Uh, no? Oh, oh! I remember that! I am SO gonna get revenge on her. I cannot believe how she thinks we will be her servants! I’m so glad you guys are my friends though. Really! Bubble likes me too… Right, Bubble? Right?
+Bubble: Uh, um… Yeah?
+Match & Pencil: No, Ice Cube! Stop! *pop*
+Bubble: Pin, You nearly popped me!
+Pin: Oh, it’s not my fault. it’s this stupid Blocky here. It’s his fault! Oof!
+Blocky: Fine, I’ll get Needle.
+Needle: Help!
+Bubble: Yikes! What was that for?
+Blocky: Hey, I’m just in the mood to hurt someone.
+Woody: *scream*
+Leafy: Woody, get up! There’s a life out there to enjoy, so, enjoy it!
+Tennis Ball: Teardrop, calm down. Kicking Woody could severely injure him. He IS balsa.
+Woody: *scream*
+Eraser: I can’t believe what a scaredy-cat Woody is. He’s so uncool. Pen, though, you’re cool.
+Pen: So are you, Eraser.
+Snowball: Oof. Woah! Rocky, wake up!
+Rocky: Wha? Hi SB
+Snowball: *sigh*
+Rocky: Whee! Oof! Hi, TB, my good-old friend!
+Firey: Coiny! You’re so dumb! Hey!
+Coiny: Oh my gosh, Firey, You’re so easy to slap. slapping
+Golf Ball: Firey, Coiny, stop fighting! And Spongy, take a bath. You’re stinky.
+Spongy: Sorry.
+Blocky: Isn’t Golf Ball bossy?
+Eraser: I know! She is like a bossy-bot. Uh, you know, a bossy robot? Well, a robot built to be its bossiest. I’d do anything to get away from her. Or Flower, or Woody, or Spongy.
+Announcer: Well, then you’re in luck.
+Eraser: Uh, how?.
+Announcer: Well, everybody, they’re building the island of luxury. It’s called Dream Island. A whole square mile of paradise, a five-star hotel, a casino, six restaurants, robot servants, and the winner even gets to decide who gets to come in and who doesn’t.
+Eraser: So, um, how much’ll it cost?
+Announcer: Not even a penny.
+Eraser: Then I’ll take it!
+Announcer: But what about everybody else? They want it too, you know.
+Eraser: Uh, I wouldn’t give up that island for anything.
+Announcer: Neither would they. So we must settle this with a contest.
+BFDI INTRO
+Announcer: So yes. Whoever stays on the bar the longest wins. 
+Leafy: Let’s help each other.
+Pin: Yeah!
+Coiny: Blocky, wake up. What are you doing?
+Spongy: Uh-oh.
+Flower: Out of my way! I need my space!
+Leafy: Help me, Pin! *Snatch!* Thanks.
+Bubble: Let’s form an alliance.
+Match: That would do no harm!
+Pencil: Let’s do it!
+Ice Cube: Wha? An alliance? I’ve got to join. Coming through! Sorry, Pen. Hey, guys! Can I be part- boom
+Pencil: No.
+Coiny: Blocky, come on. Wake up! Oops. Snatch!
+Blocky: Coiny, don’t ever- Oops.
+Show: *Yeah!*
+Leafy: There’s the evil Flower. She’s still in.
+Pin: Let’s run her over!
+Leafy: Yeah!
+Blocky: Uh-oh.
+Pin: Hey, we’re flying!
+Leafy: You’re right! Woo-hoo!
+Pin: Uh-oh. Pull up!
+Leafy: I can't! Oh, no! Blocky? Rocky? Help!
+Blocky: What is it?
+Leafy: You’re stepping on me.
+Blocky: Better?
+Leafy: Yes. Now pull us up.
+Blocky: Woah!
+Leafy: Ack! Teardrop, hold on to my other arm.
+Flower: Ha, ha! I’m wearing non-slip shoes, so ha. Hey! Grr! *Snatch!*
+Pin: Ack!
+Flower: Huh, wha- Ew, oh my god!... *scream*
+Leafy: Nice going, Pin. A job well done.
+Pin: Teardrop, let’s swing. Yay.
+Leafy: Pin, alliance, remember?
+Pin: Oh yeah.
+Blocky: Leafy, you’re stepping on me!
+Leafy: Wha? Oops. 
+Show: *Yeah!*
+Leafy & Pin Rock, paper, scissors.
+Pin: Scissors beats paper. I get to push you off.
+Leafy: Wait, hold on a sec. We didn’t agree to that.
+Pin: Look, when I win the island, I’ll let you onto the island.
+Leafy: Pin, this still isn’t fair.
+Pin: Only one of us can win.
+Leafy: Um, Pin, wrong finger.
+Pin: Whoops, heh heh. Anyway, still, only one of us can win.
+Announcer: That’s where you’re wrong. The two of you both win.
+Pin: Wait, we both get the island?
+Announcer: Nope. You just get to choose the teams. The teams for a much larger, longer battle to win Dream Island.
+Pin: Oh, great.
+Leafy: It’s not that bad.
